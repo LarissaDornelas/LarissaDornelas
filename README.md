@@ -1,4 +1,4 @@
-<h2> Larissa Dornelas 👋</h2>
+<h2> Larissa Dornelas /h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
