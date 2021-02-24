@@ -33,8 +33,8 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/larissadornelas/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-Jos%C3%A9%20Fagundes-blue?logo=Linkedin"></a>
-<a href="https://www.instagram.com/lari_dornelas/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Jos%C3%A9%20Fagundes-blue?logo=Instagram"></a>
-<a href="mailto:larissa.e.dornelas@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-fagundesjg%40outlook.com-blue"></a>
+<a href="https://www.linkedin.com/in/larissadornelas/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-Larissa%20Dornelas-blue?logo=Linkedin"></a>
+<a href="https://www.instagram.com/lari_dornelas/"><img alt="Instagram" src="https://img.shields.io/badge/Linkedin-Larissa%20Dornelas-blue?logo=Instagram"></a>
+<a href="mailto:larissa.e.dornelas@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-larissa.e.dornelas%40gmail.com-blue"></a>
 
 </p>
