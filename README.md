@@ -1,8 +1,8 @@
 <h2> Larissa Dornelas </h2>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3>  About Me </h3>
 
-- 🤔 &nbsp; Fullstack developer passionate about technology, challenges and the javascript ecosystem.
+- 🧐 &nbsp; Fullstack developer passionate about technology, challenges and the javascript ecosystem.
 - 🎓 &nbsp; Graduated in Information Systems at Federal University of Ouro Preto.
 - 💼 &nbsp; Currently working with Web Development at Clubpetro.
 - 🌱 &nbsp; Constant learning.
