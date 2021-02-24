@@ -24,7 +24,7 @@
 <div style="display: flex; flex-direction: column; align-items:center; justify-content: center; flex-wrap: wrap; align-content: center;">
   <!-- <img style="flex: 1; width: 100%; max-width: 500px; margin: 5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fagundesjg&hide=html&count_private=true&theme=dracula" /> -->
 
-  <img style="flex: 1; width: 100%; max-width: 500px; margin: 5px" src="https://github-readme-stats.vercel.app/api?username=fagundesjg&hide=html&count_private=true&show_icons=true&theme=dracula" />
+  <img style="flex: 1; width: 100%; max-width: 500px; margin: 5px" src="https://github-readme-stats.vercel.app/api?username=LarissaDornelas&hide=html&count_private=true&show_icons=true&theme=dracula" />
 </div>
 
 <br>
