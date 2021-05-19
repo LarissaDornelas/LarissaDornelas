@@ -4,7 +4,7 @@
 
 - 🧐 &nbsp; Fullstack developer passionate about technology, challenges and the javascript ecosystem.
 - 🎓 &nbsp; Graduated in Information Systems at Federal University of Ouro Preto.
-- 💼 &nbsp; Currently working with Web Development at Clubpetro.
+- 💼 &nbsp; Currently working with Web Development at Arena.
 - 🌱 &nbsp; Always learning.
 
 <h3>🛠 Hard Skills</h3>
