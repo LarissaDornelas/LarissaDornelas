@@ -19,11 +19,6 @@
   📌  Living in <b>João Monlevade</b>, <b>Minas Gerais</b>, <b>Brazil</b>  
 </h3>
 
-<br>
-
-
-<br>
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
